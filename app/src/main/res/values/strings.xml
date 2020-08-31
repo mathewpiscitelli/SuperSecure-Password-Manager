@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SuperSecure Password Manager</string>
+    <string name="login_hint">Sign In to SuperSecure</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="sign_in">Sign In</string>
+
+    <string name="account_service_placeholder">Service Name</string>
+    <string name="account_username">Username:</string>
+    <string name="account_password">Password:</string>
+    <string name="add_new_account">Add New Account</string>
+    <string name="delete_account">Delete</string>
+    <string name="no_accounts_found">No accounts found.  Add one!</string>
+
+    <string name="create_account_prompt">Create an Account Entry</string>
+    <string name="create_account_service">Service Name</string>
+    <string name="create_account_username">Username</string>
+    <string name="create_account_password">Password</string>
+    <string name="create_account_submit">Create Account</string>
+
+    <string name="sign_up_prompt">Sign Up</string>
+    <string name="sign_up_username">Enter Username</string>
+    <string name="sign_up_password">Enter Password</string>
+    <string name="sign_up_password_confirm">Confirm Password</string>
+    <string name="sign_up_submit">Submit</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
